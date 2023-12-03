@@ -1,0 +1,24 @@
+# ============================================
+# ignore
+# ============================================
+
+### mypage ###
+migrations
+static/manyo/img/card/barcode/barcode_*
+static/manyo/img/card/barcode/qrcode_*
+
+### key ###
+*.key
+*.pem
+
+### cache ###
+*.pyc
+__pycache__/
+
+### else ###
+*.swp
+.DS_Store
+.idea/
+.netrwhist
+*.log
+*.pid
